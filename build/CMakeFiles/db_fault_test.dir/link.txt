@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -fsanitize=address -fsanitize=undefined CMakeFiles/db_fault_test.dir/tests/fault_injection/db_fault_test.cpp.o -o db_fault_test  liblsmforge.a lib/libgtest_main.a lib/libgtest.a

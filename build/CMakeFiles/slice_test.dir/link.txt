@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -fsanitize=address -fsanitize=undefined CMakeFiles/slice_test.dir/tests/unit/slice_test.cpp.o -o slice_test  liblsmforge.a lib/libgtest_main.a lib/libgtest.a

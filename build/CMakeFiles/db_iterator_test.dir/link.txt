@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -fsanitize=address -fsanitize=undefined CMakeFiles/db_iterator_test.dir/tests/integration/db_iterator_test.cpp.o -o db_iterator_test  liblsmforge.a lib/libgtest_main.a lib/libgtest.a

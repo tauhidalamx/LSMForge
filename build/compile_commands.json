@@ -1,0 +1,284 @@
+[
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/util/crc32.cpp.o -c /Users/tauhidalam/project1/src/util/crc32.cpp",
+  "file": "/Users/tauhidalam/project1/src/util/crc32.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/util/crc32.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/util/coding.cpp.o -c /Users/tauhidalam/project1/src/util/coding.cpp",
+  "file": "/Users/tauhidalam/project1/src/util/coding.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/util/coding.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/util/env_posix.cpp.o -c /Users/tauhidalam/project1/src/util/env_posix.cpp",
+  "file": "/Users/tauhidalam/project1/src/util/env_posix.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/util/env_posix.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/util/status.cpp.o -c /Users/tauhidalam/project1/src/util/status.cpp",
+  "file": "/Users/tauhidalam/project1/src/util/status.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/util/status.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/util/arena.cpp.o -c /Users/tauhidalam/project1/src/util/arena.cpp",
+  "file": "/Users/tauhidalam/project1/src/util/arena.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/util/arena.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/wal/wal_writer.cpp.o -c /Users/tauhidalam/project1/src/wal/wal_writer.cpp",
+  "file": "/Users/tauhidalam/project1/src/wal/wal_writer.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/wal/wal_writer.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/wal/wal_reader.cpp.o -c /Users/tauhidalam/project1/src/wal/wal_reader.cpp",
+  "file": "/Users/tauhidalam/project1/src/wal/wal_reader.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/wal/wal_reader.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/memtable/memtable.cpp.o -c /Users/tauhidalam/project1/src/memtable/memtable.cpp",
+  "file": "/Users/tauhidalam/project1/src/memtable/memtable.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/memtable/memtable.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/table/bloom_filter.cpp.o -c /Users/tauhidalam/project1/src/table/bloom_filter.cpp",
+  "file": "/Users/tauhidalam/project1/src/table/bloom_filter.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/table/bloom_filter.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/table/block_builder.cpp.o -c /Users/tauhidalam/project1/src/table/block_builder.cpp",
+  "file": "/Users/tauhidalam/project1/src/table/block_builder.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/table/block_builder.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/table/block.cpp.o -c /Users/tauhidalam/project1/src/table/block.cpp",
+  "file": "/Users/tauhidalam/project1/src/table/block.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/table/block.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/table/table_builder.cpp.o -c /Users/tauhidalam/project1/src/table/table_builder.cpp",
+  "file": "/Users/tauhidalam/project1/src/table/table_builder.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/table/table_builder.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/table/table_reader.cpp.o -c /Users/tauhidalam/project1/src/table/table_reader.cpp",
+  "file": "/Users/tauhidalam/project1/src/table/table_reader.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/table/table_reader.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/table/two_level_iterator.cpp.o -c /Users/tauhidalam/project1/src/table/two_level_iterator.cpp",
+  "file": "/Users/tauhidalam/project1/src/table/two_level_iterator.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/table/two_level_iterator.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/table/merging_iterator.cpp.o -c /Users/tauhidalam/project1/src/table/merging_iterator.cpp",
+  "file": "/Users/tauhidalam/project1/src/table/merging_iterator.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/table/merging_iterator.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/db/version_edit.cpp.o -c /Users/tauhidalam/project1/src/db/version_edit.cpp",
+  "file": "/Users/tauhidalam/project1/src/db/version_edit.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/db/version_edit.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/db/version_set.cpp.o -c /Users/tauhidalam/project1/src/db/version_set.cpp",
+  "file": "/Users/tauhidalam/project1/src/db/version_set.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/db/version_set.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/db/compaction.cpp.o -c /Users/tauhidalam/project1/src/db/compaction.cpp",
+  "file": "/Users/tauhidalam/project1/src/db/compaction.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/db/compaction.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/db/table_cache.cpp.o -c /Users/tauhidalam/project1/src/db/table_cache.cpp",
+  "file": "/Users/tauhidalam/project1/src/db/table_cache.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/db/table_cache.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/db/db_iter.cpp.o -c /Users/tauhidalam/project1/src/db/db_iter.cpp",
+  "file": "/Users/tauhidalam/project1/src/db/db_iter.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/db/db_iter.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/db/db_impl.cpp.o -c /Users/tauhidalam/project1/src/db/db_impl.cpp",
+  "file": "/Users/tauhidalam/project1/src/db/db_impl.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/db/db_impl.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge.dir/src/db/write_batch.cpp.o -c /Users/tauhidalam/project1/src/db/write_batch.cpp",
+  "file": "/Users/tauhidalam/project1/src/db/write_batch.cpp",
+  "output": "CMakeFiles/lsmforge.dir/src/db/write_batch.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge_cli.dir/src/tools/cli.cpp.o -c /Users/tauhidalam/project1/src/tools/cli.cpp",
+  "file": "/Users/tauhidalam/project1/src/tools/cli.cpp",
+  "output": "CMakeFiles/lsmforge_cli.dir/src/tools/cli.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/lsmforge_bench.dir/benchmarks/benchmark_main.cpp.o -c /Users/tauhidalam/project1/benchmarks/benchmark_main.cpp",
+  "file": "/Users/tauhidalam/project1/benchmarks/benchmark_main.cpp",
+  "output": "CMakeFiles/lsmforge_bench.dir/benchmarks/benchmark_main.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/status_test.dir/tests/unit/status_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/status_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/status_test.cpp",
+  "output": "CMakeFiles/status_test.dir/tests/unit/status_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/slice_test.dir/tests/unit/slice_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/slice_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/slice_test.cpp",
+  "output": "CMakeFiles/slice_test.dir/tests/unit/slice_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/coding_test.dir/tests/unit/coding_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/coding_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/coding_test.cpp",
+  "output": "CMakeFiles/coding_test.dir/tests/unit/coding_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/crc32_test.dir/tests/unit/crc32_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/crc32_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/crc32_test.cpp",
+  "output": "CMakeFiles/crc32_test.dir/tests/unit/crc32_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/bloom_test.dir/tests/unit/bloom_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/bloom_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/bloom_test.cpp",
+  "output": "CMakeFiles/bloom_test.dir/tests/unit/bloom_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/skiplist_test.dir/tests/unit/skiplist_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/skiplist_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/skiplist_test.cpp",
+  "output": "CMakeFiles/skiplist_test.dir/tests/unit/skiplist_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/memtable_test.dir/tests/unit/memtable_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/memtable_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/memtable_test.cpp",
+  "output": "CMakeFiles/memtable_test.dir/tests/unit/memtable_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/wal_test.dir/tests/unit/wal_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/wal_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/wal_test.cpp",
+  "output": "CMakeFiles/wal_test.dir/tests/unit/wal_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/block_test.dir/tests/unit/block_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/block_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/block_test.cpp",
+  "output": "CMakeFiles/block_test.dir/tests/unit/block_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/table_test.dir/tests/unit/table_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/table_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/table_test.cpp",
+  "output": "CMakeFiles/table_test.dir/tests/unit/table_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/version_edit_test.dir/tests/unit/version_edit_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/version_edit_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/version_edit_test.cpp",
+  "output": "CMakeFiles/version_edit_test.dir/tests/unit/version_edit_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/version_set_test.dir/tests/unit/version_set_test.cpp.o -c /Users/tauhidalam/project1/tests/unit/version_set_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/unit/version_set_test.cpp",
+  "output": "CMakeFiles/version_set_test.dir/tests/unit/version_set_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/db_basic_test.dir/tests/integration/db_basic_test.cpp.o -c /Users/tauhidalam/project1/tests/integration/db_basic_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/integration/db_basic_test.cpp",
+  "output": "CMakeFiles/db_basic_test.dir/tests/integration/db_basic_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/db_batch_test.dir/tests/integration/db_batch_test.cpp.o -c /Users/tauhidalam/project1/tests/integration/db_batch_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/integration/db_batch_test.cpp",
+  "output": "CMakeFiles/db_batch_test.dir/tests/integration/db_batch_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/db_iterator_test.dir/tests/integration/db_iterator_test.cpp.o -c /Users/tauhidalam/project1/tests/integration/db_iterator_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/integration/db_iterator_test.cpp",
+  "output": "CMakeFiles/db_iterator_test.dir/tests/integration/db_iterator_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/db_compaction_test.dir/tests/integration/db_compaction_test.cpp.o -c /Users/tauhidalam/project1/tests/integration/db_compaction_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/integration/db_compaction_test.cpp",
+  "output": "CMakeFiles/db_compaction_test.dir/tests/integration/db_compaction_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/db_recovery_test.dir/tests/recovery/db_recovery_test.cpp.o -c /Users/tauhidalam/project1/tests/recovery/db_recovery_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/recovery/db_recovery_test.cpp",
+  "output": "CMakeFiles/db_recovery_test.dir/tests/recovery/db_recovery_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/db_fault_test.dir/tests/fault_injection/db_fault_test.cpp.o -c /Users/tauhidalam/project1/tests/fault_injection/db_fault_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/fault_injection/db_fault_test.cpp",
+  "output": "CMakeFiles/db_fault_test.dir/tests/fault_injection/db_fault_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/include -I/Users/tauhidalam/project1/src -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/db_concurrency_test.dir/tests/concurrency/db_concurrency_test.cpp.o -c /Users/tauhidalam/project1/tests/concurrency/db_concurrency_test.cpp",
+  "file": "/Users/tauhidalam/project1/tests/concurrency/db_concurrency_test.cpp",
+  "output": "CMakeFiles/db_concurrency_test.dir/tests/concurrency/db_concurrency_test.cpp.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/build/_deps/googletest-src/googlemock/include -I/Users/tauhidalam/project1/build/_deps/googletest-src/googlemock -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64  -DGTEST_HAS_PTHREAD=1   -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/tauhidalam/project1/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/tauhidalam/project1/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googlemock/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googlemock -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64  -DGTEST_HAS_PTHREAD=1   -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/tauhidalam/project1/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/tauhidalam/project1/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -I/Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64  -DGTEST_HAS_PTHREAD=1   -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/tauhidalam/project1/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/tauhidalam/project1/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/include -isystem /Users/tauhidalam/project1/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64  -DGTEST_HAS_PTHREAD=1   -Wall -Wextra -Wpedantic -Wshadow -Wnon-virtual-dtor -Wno-unused-parameter -fsanitize=address -fno-omit-frame-pointer -fsanitize=undefined -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/tauhidalam/project1/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/tauhidalam/project1/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

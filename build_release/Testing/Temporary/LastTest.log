@@ -1,0 +1,533 @@
+Start testing: Oct 19 17:57 IST
+----------------------------------------------------------
+1/19 Testing: status_test
+1/19 Test: status_test
+Command: "/Users/tauhidalam/project1/build_release/status_test"
+Directory: /Users/tauhidalam/project1/build_release
+"status_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from StatusTest
+[ RUN      ] StatusTest.OKStatus
+[       OK ] StatusTest.OKStatus (0 ms)
+[ RUN      ] StatusTest.ErrorStatuses
+[       OK ] StatusTest.ErrorStatuses (0 ms)
+[ RUN      ] StatusTest.CopyAndMove
+[       OK ] StatusTest.CopyAndMove (0 ms)
+[----------] 3 tests from StatusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.70 sec
+----------------------------------------------------------
+Test Passed.
+"status_test" end time: Oct 19 17:57 IST
+"status_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/19 Testing: slice_test
+2/19 Test: slice_test
+Command: "/Users/tauhidalam/project1/build_release/slice_test"
+Directory: /Users/tauhidalam/project1/build_release
+"slice_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from SliceTest
+[ RUN      ] SliceTest.BasicOperations
+[       OK ] SliceTest.BasicOperations (0 ms)
+[ RUN      ] SliceTest.BinarySafeWithNullBytes
+[       OK ] SliceTest.BinarySafeWithNullBytes (0 ms)
+[----------] 2 tests from SliceTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.54 sec
+----------------------------------------------------------
+Test Passed.
+"slice_test" end time: Oct 19 17:57 IST
+"slice_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/19 Testing: coding_test
+3/19 Test: coding_test
+Command: "/Users/tauhidalam/project1/build_release/coding_test"
+Directory: /Users/tauhidalam/project1/build_release
+"coding_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 5 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 5 tests from CodingTest
+[ RUN      ] CodingTest.Fixed32
+[       OK ] CodingTest.Fixed32 (0 ms)
+[ RUN      ] CodingTest.Fixed64
+[       OK ] CodingTest.Fixed64 (0 ms)
+[ RUN      ] CodingTest.Varint32
+[       OK ] CodingTest.Varint32 (0 ms)
+[ RUN      ] CodingTest.Varint64
+[       OK ] CodingTest.Varint64 (0 ms)
+[ RUN      ] CodingTest.LengthPrefixedSlice
+[       OK ] CodingTest.LengthPrefixedSlice (0 ms)
+[----------] 5 tests from CodingTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"coding_test" end time: Oct 19 17:57 IST
+"coding_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/19 Testing: crc32_test
+4/19 Test: crc32_test
+Command: "/Users/tauhidalam/project1/build_release/crc32_test"
+Directory: /Users/tauhidalam/project1/build_release
+"crc32_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from Crc32Test
+[ RUN      ] Crc32Test.BasicChecksum
+[       OK ] Crc32Test.BasicChecksum (0 ms)
+[ RUN      ] Crc32Test.ExtendChecksum
+[       OK ] Crc32Test.ExtendChecksum (0 ms)
+[ RUN      ] Crc32Test.MaskAndUnmask
+[       OK ] Crc32Test.MaskAndUnmask (0 ms)
+[----------] 3 tests from Crc32Test (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"crc32_test" end time: Oct 19 17:57 IST
+"crc32_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/19 Testing: bloom_test
+5/19 Test: bloom_test
+Command: "/Users/tauhidalam/project1/build_release/bloom_test"
+Directory: /Users/tauhidalam/project1/build_release
+"bloom_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from BloomFilterTest
+[ RUN      ] BloomFilterTest.EmptyFilter
+[       OK ] BloomFilterTest.EmptyFilter (0 ms)
+[ RUN      ] BloomFilterTest.ZeroFalseNegatives
+[       OK ] BloomFilterTest.ZeroFalseNegatives (0 ms)
+[ RUN      ] BloomFilterTest.EmpiricalFalsePositiveRate
+[       OK ] BloomFilterTest.EmpiricalFalsePositiveRate (1 ms)
+[----------] 3 tests from BloomFilterTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (2 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   1.13 sec
+----------------------------------------------------------
+Test Passed.
+"bloom_test" end time: Oct 19 17:57 IST
+"bloom_test" time elapsed: 00:00:01
+----------------------------------------------------------
+
+6/19 Testing: skiplist_test
+6/19 Test: skiplist_test
+Command: "/Users/tauhidalam/project1/build_release/skiplist_test"
+Directory: /Users/tauhidalam/project1/build_release
+"skiplist_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from SkipListTest
+[ RUN      ] SkipListTest.EmptyList
+[       OK ] SkipListTest.EmptyList (0 ms)
+[ RUN      ] SkipListTest.InsertAndLookup
+[       OK ] SkipListTest.InsertAndLookup (0 ms)
+[----------] 2 tests from SkipListTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.53 sec
+----------------------------------------------------------
+Test Passed.
+"skiplist_test" end time: Oct 19 17:57 IST
+"skiplist_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/19 Testing: memtable_test
+7/19 Test: memtable_test
+Command: "/Users/tauhidalam/project1/build_release/memtable_test"
+Directory: /Users/tauhidalam/project1/build_release
+"memtable_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from MemTableTest
+[ RUN      ] MemTableTest.AddAndGet
+[       OK ] MemTableTest.AddAndGet (0 ms)
+[ RUN      ] MemTableTest.DeletionTombstone
+[       OK ] MemTableTest.DeletionTombstone (0 ms)
+[----------] 2 tests from MemTableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"memtable_test" end time: Oct 19 17:57 IST
+"memtable_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/19 Testing: wal_test
+8/19 Test: wal_test
+Command: "/Users/tauhidalam/project1/build_release/wal_test"
+Directory: /Users/tauhidalam/project1/build_release
+"wal_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from WalTest
+[ RUN      ] WalTest.ShortRecords
+[       OK ] WalTest.ShortRecords (0 ms)
+[ RUN      ] WalTest.LargeFragmentedRecord
+[       OK ] WalTest.LargeFragmentedRecord (0 ms)
+[----------] 2 tests from WalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"wal_test" end time: Oct 19 17:57 IST
+"wal_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/19 Testing: block_test
+9/19 Test: block_test
+Command: "/Users/tauhidalam/project1/build_release/block_test"
+Directory: /Users/tauhidalam/project1/build_release
+"block_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BlockTest
+[ RUN      ] BlockTest.BuildAndIterate
+[       OK ] BlockTest.BuildAndIterate (0 ms)
+[----------] 1 test from BlockTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"block_test" end time: Oct 19 17:57 IST
+"block_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/19 Testing: table_test
+10/19 Test: table_test
+Command: "/Users/tauhidalam/project1/build_release/table_test"
+Directory: /Users/tauhidalam/project1/build_release
+"table_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TableTest
+[ RUN      ] TableTest.BuildAndReadSSTable
+[       OK ] TableTest.BuildAndReadSSTable (0 ms)
+[----------] 1 test from TableTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.51 sec
+----------------------------------------------------------
+Test Passed.
+"table_test" end time: Oct 19 17:57 IST
+"table_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/19 Testing: version_edit_test
+11/19 Test: version_edit_test
+Command: "/Users/tauhidalam/project1/build_release/version_edit_test"
+Directory: /Users/tauhidalam/project1/build_release
+"version_edit_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VersionEditTest
+[ RUN      ] VersionEditTest.EncodeDecode
+[       OK ] VersionEditTest.EncodeDecode (0 ms)
+[----------] 1 test from VersionEditTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.52 sec
+----------------------------------------------------------
+Test Passed.
+"version_edit_test" end time: Oct 19 17:57 IST
+"version_edit_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/19 Testing: version_set_test
+12/19 Test: version_set_test
+Command: "/Users/tauhidalam/project1/build_release/version_set_test"
+Directory: /Users/tauhidalam/project1/build_release
+"version_set_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VersionSetTest
+[ RUN      ] VersionSetTest.EmptyVersionSet
+[       OK ] VersionSetTest.EmptyVersionSet (0 ms)
+[----------] 1 test from VersionSetTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"version_set_test" end time: Oct 19 17:57 IST
+"version_set_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/19 Testing: db_basic_test
+13/19 Test: db_basic_test
+Command: "/Users/tauhidalam/project1/build_release/db_basic_test"
+Directory: /Users/tauhidalam/project1/build_release
+"db_basic_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from DBBasicTest
+[ RUN      ] DBBasicTest.PutGetDelete
+[       OK ] DBBasicTest.PutGetDelete (24 ms)
+[ RUN      ] DBBasicTest.EmptyKeyAndValue
+[       OK ] DBBasicTest.EmptyKeyAndValue (23 ms)
+[ RUN      ] DBBasicTest.BinarySafeKeysAndValues
+[       OK ] DBBasicTest.BinarySafeKeysAndValues (23 ms)
+[ RUN      ] DBBasicTest.FlushMultipleMemTables
+[       OK ] DBBasicTest.FlushMultipleMemTables (138 ms)
+[----------] 4 tests from DBBasicTest (209 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (209 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.74 sec
+----------------------------------------------------------
+Test Passed.
+"db_basic_test" end time: Oct 19 17:57 IST
+"db_basic_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/19 Testing: db_batch_test
+14/19 Test: db_batch_test
+Command: "/Users/tauhidalam/project1/build_release/db_batch_test"
+Directory: /Users/tauhidalam/project1/build_release
+"db_batch_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DBBatchTest
+[ RUN      ] DBBatchTest.AtomicBatchUpdates
+[       OK ] DBBatchTest.AtomicBatchUpdates (24 ms)
+[----------] 1 test from DBBatchTest (24 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (24 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.56 sec
+----------------------------------------------------------
+Test Passed.
+"db_batch_test" end time: Oct 19 17:57 IST
+"db_batch_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/19 Testing: db_iterator_test
+15/19 Test: db_iterator_test
+Command: "/Users/tauhidalam/project1/build_release/db_iterator_test"
+Directory: /Users/tauhidalam/project1/build_release
+"db_iterator_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 2 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 2 tests from DBIteratorTest
+[ RUN      ] DBIteratorTest.SortedScanAndSeek
+[       OK ] DBIteratorTest.SortedScanAndSeek (24 ms)
+[ RUN      ] DBIteratorTest.SnapshotVisibilityAndTombstones
+[       OK ] DBIteratorTest.SnapshotVisibilityAndTombstones (21 ms)
+[----------] 2 tests from DBIteratorTest (46 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test suite ran. (46 ms total)
+[  PASSED  ] 2 tests.
+<end of output>
+Test time =   0.57 sec
+----------------------------------------------------------
+Test Passed.
+"db_iterator_test" end time: Oct 19 17:57 IST
+"db_iterator_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/19 Testing: db_compaction_test
+16/19 Test: db_compaction_test
+Command: "/Users/tauhidalam/project1/build_release/db_compaction_test"
+Directory: /Users/tauhidalam/project1/build_release
+"db_compaction_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DBCompactionTest
+[ RUN      ] DBCompactionTest.CompactionMaintainsCorrectness
+[       OK ] DBCompactionTest.CompactionMaintainsCorrectness (265 ms)
+[----------] 1 test from DBCompactionTest (265 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (265 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.79 sec
+----------------------------------------------------------
+Test Passed.
+"db_compaction_test" end time: Oct 19 17:57 IST
+"db_compaction_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/19 Testing: db_recovery_test
+17/19 Test: db_recovery_test
+Command: "/Users/tauhidalam/project1/build_release/db_recovery_test"
+Directory: /Users/tauhidalam/project1/build_release
+"db_recovery_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DBRecoveryTest
+[ RUN      ] DBRecoveryTest.PersistenceAcrossReopen
+[       OK ] DBRecoveryTest.PersistenceAcrossReopen (2092 ms)
+[----------] 1 test from DBRecoveryTest (2092 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2092 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   2.63 sec
+----------------------------------------------------------
+Test Passed.
+"db_recovery_test" end time: Oct 19 17:57 IST
+"db_recovery_test" time elapsed: 00:00:02
+----------------------------------------------------------
+
+18/19 Testing: db_fault_test
+18/19 Test: db_fault_test
+Command: "/Users/tauhidalam/project1/build_release/db_fault_test"
+Directory: /Users/tauhidalam/project1/build_release
+"db_fault_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DBFaultTest
+[ RUN      ] DBFaultTest.TruncatedTrailingWALRecord
+[       OK ] DBFaultTest.TruncatedTrailingWALRecord (125 ms)
+[----------] 1 test from DBFaultTest (125 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (125 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.67 sec
+----------------------------------------------------------
+Test Passed.
+"db_fault_test" end time: Oct 19 17:57 IST
+"db_fault_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/19 Testing: db_concurrency_test
+19/19 Test: db_concurrency_test
+Command: "/Users/tauhidalam/project1/build_release/db_concurrency_test"
+Directory: /Users/tauhidalam/project1/build_release
+"db_concurrency_test" start time: Oct 19 17:57 IST
+Output:
+----------------------------------------------------------
+Running main() from /Users/tauhidalam/project1/build_release/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DBConcurrencyTest
+[ RUN      ] DBConcurrencyTest.ConcurrentReadersAndWriters
+[       OK ] DBConcurrencyTest.ConcurrentReadersAndWriters (97 ms)
+[----------] 1 test from DBConcurrencyTest (97 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (97 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.62 sec
+----------------------------------------------------------
+Test Passed.
+"db_concurrency_test" end time: Oct 19 17:57 IST
+"db_concurrency_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 19 17:57 IST
